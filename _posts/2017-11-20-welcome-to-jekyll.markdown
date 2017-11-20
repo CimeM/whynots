@@ -1,25 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hello svet."
 date:   2017-11-20 19:53:06 +0100
-categories: jekyll update
+categories: blogpost
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+Prvi prispevki so vedno takšni, sirovi, in velikokrat zaznamujejo prva vesedila ki se jih verjetno sramujemo. Pa ne zato ker so pusta ali pa se ne navezujejo na temo bloga/strani.  Ampak zato ker zaznamujejo tocko, ko smo ustvarjalci imeli še lušt nad tem da ustvarjamo neki velikega. Kot da bi vzgajali malega okemona, na začetku je vsak tak patetičen in ljubek. Ta stran je namenjena le meni, da jo bom našel leta od začetka te strani in si bom mislu: "o lej ker bumbar, kr mislu je da mu bo ratal... ha!"
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Ampak poglej. Zato sm tuki, da vidim kako velika je moja napaka.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+To besedilo še vedno urejam v VIM-u, za tiste ki veste kaj to je, si lahko zapoloskate. Samo enkrat.
