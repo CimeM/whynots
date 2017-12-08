@@ -5,7 +5,7 @@ date:   2017-12-08 22:00:00 +0100
 categories: blogpost
 ---
 
-Saftey scarf-collar. When heavy winter garments often protect us from extreme winter conditions, they often hinder our sense of hearing and seeing hazardous situations. There is really no garments that provide protection from weather conditions and also provide information about our surroundings. This scarf/collar provides guidance information that will ultimately keep us and our loved ones safe.
+When heavy winter garments often protect us from extreme winter conditions, they often hinder our sense of hearing and seeing hazardous situations. There is really no garments that provide protection from weather conditions and also provide information about our surroundings. This scarf/collar provides guidance information that will ultimately keep us and our loved ones safe.
 
 With location-based real-time information, the garment can provide better decision making in a time of crisis or/and bad weather conditions when visibility becomes anaemic. 
 
