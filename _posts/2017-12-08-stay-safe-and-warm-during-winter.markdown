@@ -36,17 +36,17 @@ Garment provides real-time information about accidents,
 
 Avoid "red” areas with high accident probability. Get navigation information in low visibility weather. Remain undistracted when accidents happen.
 
-![alt text](https://dl.dropboxusercontent.com/s/agsswwcelv7k556/Screen%20Shot%202017-12-03%20at%2013.42.34.png "")
+![alt text](https://dl.dropboxusercontent.com/s/agsswwcelv7k556/Screen%20Shot%202017-12-03%20at%2013.42.34.png "winter garments provide weather protection but hinder visibility in already dangeorous area")
 
 Avoid areas with frequent accidents. Data provided by traffic infrastructure will provide information where safe zones reside. These zones change dynamically and depend on various factors. Pedestrians remain in accident unlikely area. The scarf garment can provide information about navigating within the danger zones, or avoid them completely.
 
 
-![alt text](https://dl.dropboxusercontent.com/s/dmpenv1em8t5u7k/Screen%20Shot%202017-12-03%20at%2013.39.41.png "")
+![alt text](https://dl.dropboxusercontent.com/s/dmpenv1em8t5u7k/Screen%20Shot%202017-12-03%20at%2013.39.41.png "city map shows danger zones")
 
 
 Navigate to safe zone after a terrorist attack. - Receive guiding information to safe location. If there are possible traffic accidents traffic system would alert pedestrians in real time for them to avoid dangerous locations. 
 
 
-![alt text](https://dl.dropboxusercontent.com/s/jq9c84r4xw5yk6z/Screen%20Shot%202017-12-03%20at%2013.47.21.png "")
+![alt text](https://dl.dropboxusercontent.com/s/jq9c84r4xw5yk6z/Screen%20Shot%202017-12-03%20at%2013.47.21.png "london had trouble in 2017 with an attack on the bridge")
 
 
