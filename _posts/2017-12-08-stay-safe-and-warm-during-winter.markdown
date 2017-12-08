@@ -36,7 +36,7 @@ Garment provides real-time information about accidents,
 
 Avoid "red” areas with high accident probability. Get navigation information in low visibility weather. Remain undistracted when accidents happen.
 
-![alt text](https://www.dropbox.com/s/agsswwcelv7k556/Screen%20Shot%202017-12-03%20at%2013.42.34.png "")
+![alt text](https://dl.dropboxusercontent.com/s/agsswwcelv7k556/Screen%20Shot%202017-12-03%20at%2013.42.34.png "")
 
 Avoid areas with frequent accidents. Data provided by traffic infrastructure will provide information where safe zones reside. These zones change dynamically and depend on various factors. Pedestrians remain in accident unlikely area. The scarf garment can provide information about navigating within the danger zones, or avoid them completely.
 
