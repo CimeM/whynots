@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kickstarting my brain"
+title:  "Brainstorming for names"
 date:   2017-11-2 19:53:06 +0100
 categories: blogpost
 ---
