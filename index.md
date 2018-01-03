@@ -7,12 +7,12 @@ layout: home
 
 <div id="firsthomesection">
   <p align="center">
-    <img src="https://dl.dropboxuserdata.com/s/puhox7ewsxjzz1r/thissupposedtobeme.jpg">
+    <img src="https://dl.dropboxusercontent.com/s/puhox7ewsxjzz1r/thissupposedtobeme.jpg">
   </p>
 </div>
 
 <div id="secondhomesection">
-  <h3><full stack dev ></h3>
+  <h3 align="center"> &#8826; full stack dev &#8827; </h3>
 </div>
 
 <div id="thirdhomesection">
