@@ -1,9 +1,13 @@
-This research paper was created as a research piece to the theory of Constraints proposed in the book "The Goal" by Eliyahu M. Goldratt & Jef Cox and have knowledge applied to the simulation.
+You have probably seen a factory before. You probably drove by one today. From the outside it looks dull, because iron curtains hide the marvel that is going on inside. 
 
-Methods are tested using a strategic game: [Fallout Shelter](http://fallout.wikia.com/wiki/Fallout_Shelter) announced in 2015. The game allows building an underground vault thereby becoming overseer of its inhabitants. The game includes in-app payment, which allows time shortcuts for some of its processes, allowing instant access to resources operations. Payments are used to buy tokens: nuca-cola bottles, and can be consumed by the characters in the game to speed up the time that the player would otherwise have to wait for.
+I was lucky enough to work at a factory before i even graduated. It was a paper plant. They shipped in cellulose and turn it into paper for all sorts of labels. But all the knowledge about technical part of the plant didn’t prepare me for the Theory of constraints. 
+
+While engineers worry about how machines operate and their health status, upper management deals with the operations process like the throughput maximisation, efficiency, profitability. For a young engineer these terms sound like meaningless words, they actually consider the future of the plant itself. This was a great opportunity for me, to sit on a managers chair and observe the process, while consuming the information and making sense of it.
+
+This article was created as a research piece to the theory of Constraints proposed by Eliyahu M. Goldratt & Jef Cox in the book "The Goal”. And at the same time apply the knowledge to a simulation that considers management perspective as the main driver to reach the goal. The simulation is actually a strategic game that involves people, their motivations and as well considers tangible assets as a goal.
 
 ### The novel: The goal
-The main character is Alex Rogo his mission is to turn around the factory and ensure profit and survival of his company. The book reveals how the Theory of COnstraints can be applied in management to alleviate bottlenecks. The book also describes how to apply the concepts in real life. It is used in management colleges to teach students about the importance of strategic capacity planning and constraint management. [Time Magazine](https://en.wikipedia.org/wiki/Time_(magazine)) listed the book as one of "The 25 Most Influential Business Management Books. More: [Wiki: The Goal(novel)](https://en.wikipedia.org/wiki/The_Goal_(novel))
+The main character is Alex Rogo, his mission is to turn the factory away from debt and ensure profit and survival of his company. The book reveals how the Theory of Constraints can be applied in management to alleviate bottlenecks. The book also describes how to apply the concepts in real life. It is used in management colleges to teach students about the importance of strategic capacity planning and constraint management. [Time Magazine](https://en.wikipedia.org/wiki/Time_(magazine)) listed the book as one of "The 25 Most Influential Business Management Books. More: [Wiki: The Goal(novel)](https://en.wikipedia.org/wiki/The_Goal_(novel))
 
 Some quotes from the book: 
 
@@ -17,14 +21,17 @@ Some quotes from the book:
 
 
 ### The simulation: Fallout Shelter
-The game operates as a manufacturing facility, where bottlenecks and optimisations are possible. There is room for optimization and strategic operations if handled correctly can produce acceptable living conditions and with that, expansion.
-The goal of the game actually wasn't announced. Players did unlock most of the items when reaching 200 inhabitants in their vault, therefore the goal is to obtain 200 inhabitants and having their levels maximised.
+(http://fallout.wikia.com/wiki/Fallout_Shelter) announced in 2015. The game allows building an underground vault and becoming overseer of its inhabitants. The game includes in-app payment that allows time shortcuts for some of its processes. The goal is to reach 200 inhabitants while stabilising their resource consumption and develop their skills. The game owns unpredictable factors, that appear randomly and have to be addressed immediately. We can call these stability tests. The simulation is a close representation to the example in the book, but still needed some deduction to identify some of its traits.
+
+The game operates as a manufacturing facility, where bottlenecks and optimisations are possible. The game challenges the player by building a stable entity and testing it by random events that can compromise stability.
+
+The goal of the game actually wasn't announced by the creators but it does provide the multitude of areas for improvement. Mainly concerning the inhabitants. The vault has its size limit, and so do the skills levels.
 
 
 ### Room positioning strategy.
 
 #### Building array
-The overseer is to a line of 15 dwellers at the gate of the vault. They are at low levels and don’t have special traits skilled. Avoiding instruction windows, first steps involve building the basic necessities for the vault. Build a diner, power plant, water treatment facilities and assign dwellers to them. You can group maximum of 3 rooms, and the allowed width allows for 9 rooms in a row. But because elevators need to be positioned in between. If you want to maximise the speed dwellers move in the vault, it is most efficient to build two rows of elevators in the centre of the vault. My configuration has exactly the configuration. I’ve built 2 elevator columns in the middle allowing 2 room in between and 3 rooms on each side.
+At the beginning the overseer is presented to a line of 15 dwellers at the gate of the vault. They are at low levels and don’t have special traits skilled. First modest steps involve building the basic necessities for the vault. Build a power plant, water treatment and diner facilities and assign dwellers to them. You can group maximum of 3 rooms, and the allowed width allows for 9 rooms in a row. If you want to maximise the speed dwellers move in the vault, it is most efficient to build two rows of elevators in the centre of the vault. My configuration has exactly the configuration. I’ve built 2 elevator columns in the middle allowing 2 room in between and 3 rooms on each side.
 
 #### Build-in rows
 Build resource producing facilities in a row. This way you can max out the use of mr. Handy in the future. Living quarters can occupy a single row in your vault (it will be more than that). Just focus on the rows.
